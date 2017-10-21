@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<librarys>
+        <libraryId>1</libraryId>
+        <libraryName>图书馆</libraryName>
+        <books>
+                <book>
+                        <bookId>100</bookId>
+                        <bookName>java1</bookName>
+                </book>
+                <book>
+                        <bookId>101</bookId>
+                        <bookName>java2</bookName>
+                </book>
+        </books>
+</librarys>
