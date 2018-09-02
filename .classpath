@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java_pra/src"/>
+	<classpathentry kind="lib" path="java_pra/src/二维码/com/oliver/qrcode/Qrcode_A.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/二维码/com/oliver/qrcode/qrcode_B.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/二维码/com/oliver/zxing/zxing3.2.1.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/对象转XML/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/对象转XML/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/对象转XML/jaxb-core-2.3.0.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/对象转XML/jaxb-impl-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
