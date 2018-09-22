@@ -8,6 +8,18 @@
 	<classpathentry kind="lib" path="java_pra/src/对象转XML/javax.activation-1.2.0.jar"/>
 	<classpathentry kind="lib" path="java_pra/src/对象转XML/jaxb-core-2.3.0.jar"/>
 	<classpathentry kind="lib" path="java_pra/src/对象转XML/jaxb-impl-2.3.0.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/aspectjrt-1.5.3.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/aspectjweaver-1.9.1.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/spring-aop-5.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/spring-aspects-5.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/spring-beans-5.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/spring-context-5.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/spring-core-5.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/proxyLearn/lib/spring-expression-5.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/webService/service/lib/jaxws-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="java_pra/src/webService/service/lib/javax.jws-3.1.2.2.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
 		<attributes>
